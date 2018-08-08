@@ -5,7 +5,7 @@ let applesCost = +prompt('цена яблок, р.', "10");
 let bradCost = +prompt('цена хлеба, р.', "10");
 let  saldo= (money - (apples * applesCost + brad * bradCost));
 
-if (saldo < money) {
+if (saldo < 0) {
 	document.body.innerHTML = false;
 }else {
 	document.body.innerHTML = true;

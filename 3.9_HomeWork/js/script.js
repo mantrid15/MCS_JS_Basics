@@ -6,17 +6,9 @@ let colorF = prompt('Какой будет цвет текста на стран
 let colorFont = document.querySelector('.page ');
 colorFont.style.color = colorF;
 
-
 let name = prompt('Как зовут человека, который вас вдохновляет', "Lenin");
 let manName = document.querySelector('.name');
 manName.innerHTML = name;
-console.log(manName.innerHTML);
-
-
-
-
-
-
 
 let img = prompt('Введите адрес картинки', 'https://www.thefamouspeople.com/profiles/images/og-vladimir-lenin-96.jpg' );
 let image = document.querySelector('img');

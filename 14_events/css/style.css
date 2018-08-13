@@ -1,0 +1,8 @@
+@import "reset.css";
+body {
+	background: lightgrey;
+
+}
+p {
+	display: none;
+}

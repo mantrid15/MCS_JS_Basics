@@ -1,0 +1,9 @@
+@import "reset.css";
+body {
+	background: lightgrey;
+
+}
+div {
+	width: 500px;
+	height: 500px;
+}

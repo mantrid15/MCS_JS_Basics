@@ -1,0 +1,42 @@
+@import "reset.css";
+body {
+	background: lightgrey;
+}
+
+.basic {
+	width: 700px;
+	height: 400px;
+	background: white;
+	padding: 0 0 10px 0;
+}
+p {
+	width: 170px;
+/*	height: 30px;*/
+	/*background: yellow;*/
+	font-size: 1.25em;
+	font-style: italic;
+	margin: 10px 10px;
+}
+h1 {
+	height: 20px;
+	font-style: normal;
+	font-size: 2em;
+	margin: 10px 10px ;
+}
+div [name=counter] {
+	border: none;
+	width: 0;
+	height: 30px;
+	background: #cc0000;
+	margin-left: 10px;
+	margin-top: 0;
+}
+div [id=p2] {
+	background: #005cbf;
+}
+div [id=p3] {
+	background: #63fffb;
+}
+
+
+

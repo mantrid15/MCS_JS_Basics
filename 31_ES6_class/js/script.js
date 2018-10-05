@@ -1,13 +1,3 @@
-/*class User {
-	constructor(name, email, password) {
-		name,
-		email,
-		password
-	}
-	sayHi() {
-		return 'Sholom' + this.name;
-	}
-}*/
 
 class User {
 	constructor(name, email, password) {

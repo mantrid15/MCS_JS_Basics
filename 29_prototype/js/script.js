@@ -1,9 +1,11 @@
-console.log("!!!" + location);
+
 
 let Animal = {
 	canEat: true,
 	hasParents: true
 }
+console.log();
+/*
 
 let Cow = {
 	givesMilk: true,
@@ -14,4 +16,4 @@ console.log(Cow.canEat);
 
 for (key in Cow) {
 	console.log(key);
-}
+}*/

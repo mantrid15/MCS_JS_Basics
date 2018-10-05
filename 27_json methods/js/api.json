@@ -1,0 +1,17 @@
+const DATA "=" [
+    {
+    "city" : "Moscow",
+    "temp" : 10,
+    "pressure" : 250
+    },
+    {
+    "city" : "Maiami",
+    "temp" : 20,
+    "pressure" : 350
+    },
+    {
+    "city" : "Beijing",
+    "temp" : 15,
+    "pressure" : 200
+    }
+]
